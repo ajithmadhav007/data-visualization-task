@@ -1,6 +1,6 @@
 # Data Visualization Task
 
-## Example
+![Screenshot](preview-img-1.jpg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
